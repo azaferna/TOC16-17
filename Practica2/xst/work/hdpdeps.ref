@@ -1,0 +1,12 @@
+V3 7
+FL C:/hlocal/p2_mia/Practica2/divisor.vhd 2016/10/25.18:14:36 P.15xf
+EN work/divisor 1477470874 FL C:/hlocal/p2_mia/Practica2/divisor.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/divisor/divisor_arch 1477470875 \
+      FL C:/hlocal/p2_mia/Practica2/divisor.vhd EN work/divisor 1477470874
+FL C:/hlocal/p2_mia/Practica2/reflejo.vhd 2016/10/26.10:28:00 P.15xf
+EN work/reflejo 1477470876 FL C:/hlocal/p2_mia/Practica2/reflejo.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/reflejo/Behavioral 1477470877 \
+      FL C:/hlocal/p2_mia/Practica2/reflejo.vhd EN work/reflejo 1477470876 \
+      CP divisor

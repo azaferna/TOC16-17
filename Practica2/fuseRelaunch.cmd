@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/hlocal/p2_mia/Practica2/tb_reflejo_isim_beh.exe" -prj "C:/hlocal/p2_mia/Practica2/tb_reflejo_beh.prj" "work.tb_reflejo" 
